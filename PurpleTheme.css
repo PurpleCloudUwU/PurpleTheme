@@ -1,4 +1,16 @@
-@import url();
+/**
+ * @name PurpleTheme
+ * @description A dark, rounded discord theme.
+ * @author Lia
+ * @version 0.1
+ * @invite 
+ * @website https://github.com/PurpleCloudUwU/PurpleTheme
+ * @source https://github.com/PurpleCloudUwU/PurpleTheme/blob/main/PurpleTheme.css
+*/
+
+
+
+@import url('https://raw.githubusercontent.com/PurpleCloudUwU/PurpleTheme/main/PurpleTheme.css');
 
 :root {
     
